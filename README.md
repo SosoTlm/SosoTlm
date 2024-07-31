@@ -1,4 +1,4 @@
-##Hide n Seek Minecraft Datapack
+# Hide n Seek Minecraft Datapack
 
 
 
